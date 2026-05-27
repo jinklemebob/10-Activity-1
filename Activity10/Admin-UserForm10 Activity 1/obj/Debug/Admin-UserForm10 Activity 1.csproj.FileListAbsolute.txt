@@ -1,0 +1,10 @@
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\bin\Debug\Admin-UserForm10 Activity 1.exe.config
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\bin\Debug\Admin-UserForm10 Activity 1.exe
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\bin\Debug\Admin-UserForm10 Activity 1.pdb
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin-UserForm10 Activity 1.csproj.AssemblyReference.cache
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin_UserForm10_Activity_1.Form1.resources
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin_UserForm10_Activity_1.Properties.Resources.resources
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin-UserForm10 Activity 1.csproj.GenerateResource.cache
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin-UserForm10 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin-UserForm10 Activity 1.exe
+C:\Users\Takashima\Desktop\Admin-UserForm10-Activity-1-master\Admin-UserForm10 Activity 1\obj\Debug\Admin-UserForm10 Activity 1.pdb
